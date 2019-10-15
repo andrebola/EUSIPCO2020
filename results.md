@@ -351,15 +351,15 @@
           <th id="" class="data row0 col0" >128</th>
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" >87.10</td>
-          <td id="" class="data row0 col4" markdown="span"></td>
+          <td id="" class="data row0 col4" ></td>
           <td id="" class="data row0 col5" markdown="span">**87.21**</td>
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
-          <td id="" class="data row0 col2" markdown="span">-</td>
+          <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" markdown="span">87.16</td>
           <td id="" class="data row0 col4" ></td>
-          <td id="" class="data row0 col5" >87.21</td>
+          <td id="" class="data row0 col5" markdown="span">**87.21**</td>
     </tr>
     <tr>
           <th id="" class="data row0 col0" >48</th>
@@ -388,16 +388,16 @@
         <tr>
           <th id="" class="data row0 col0" >128</th>
           <td id="" class="data row0 col2" >-</td>
-          <td id="" class="data row0 col3" markdown="span">**26.97**</td>
-          <td id="" class="data row0 col4" markdown="span">-</td>
+          <td id="" class="data row0 col3" >26.97</td>
+          <td id="" class="data row0 col4" >-</td>
           <td id="" class="data row0 col5" >26.91</td>
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
-          <td id="" class="data row0 col2" markdown="span">-</td>
-          <td id="" class="data row0 col3" >27.10</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" markdown="span">**27.10**</td>
           <td id="" class="data row0 col4" >-</td>
-          <td id="" class="data row0 col5" >26.96</td>
+          <td id="" class="data row0 col5" markdown="span">**26.96**</td>
     </tr>
     <tr>
           <th id="" class="data row0 col0" >48</th>
