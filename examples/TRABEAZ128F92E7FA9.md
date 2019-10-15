@@ -6,10 +6,10 @@ In the following table you can find an original audio sample from Million Song D
  
 # Examples:
  - **[Maurice Larcange - Un Peu D'Amour Et D'Amitié](/examples/TRABEAZ128F92E7FA9.md)**
- - [Mutt - Dublites](/examples//TRABJDM12903CAFAD6.md)
- - [Serj Tankian - Sky Is Over](/examples//TRABJAW128F931EAC8.md)
- - [Anthony Shakir - One Beat (Just Won't Do)](/examples//TRABEAZ12903CD1426.md)
- - [The Jazz Masters - Moonlight Sax Medley](/examples//TRABJDQ12903CDDD65.md)
+ - [Mutt - Dublites](/examples/TRABJDM12903CAFAD6.md)
+ - [Serj Tankian - Sky Is Over](/examples/TRABJAW128F931EAC8.md)
+ - [Anthony Shakir - One Beat (Just Won't Do)](/examples/TRABEAZ12903CD1426.md)
+ - [The Jazz Masters - Moonlight Sax Medley](/examples/TRABJDQ12903CDDD65.md)
  
 
 ## Maurice Larcange - Un Peu D'Amour Et D'Amitié
