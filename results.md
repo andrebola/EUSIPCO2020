@@ -128,3 +128,78 @@
           <td id="" class="data row0 col5" >35.89 (0.40)</td>
     </tr>
 </tbody></table>
+
+## MagnaTagATune - MUSICNN (ROC AUC)
+
+<style  type="text/css" >
+</style>
+<table id="" >
+<thead>    
+<tr>            
+<th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col2" >12KHz-log</th>
+<th class="col_heading level0 col3" >12KHz-dB</th>
+<th class="col_heading level0 col4" >16KHz-log</th>
+<th class="col_heading level0 col5" >16KHz-dB</th>
+</tr></thead><tbody>
+        <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col2" >90.39</td>
+          <td id="" class="data row0 col3" >90.40</td>
+          <td id="" class="data row0 col4" markdown="span">**90.66**</td>
+          <td id="" class="data row0 col5" markdown="span">**90.83**</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col2" markdown="span">**90.59**</td>
+          <td id="" class="data row0 col3" markdown="span">**90.50**</td>
+          <td id="" class="data row0 col4" >90.58</td>
+          <td id="" class="data row0 col5" >90.60</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col2" >90.44</td>
+          <td id="" class="data row0 col3" >90.33</td>
+          <td id="" class="data row0 col4" >90.44</td>
+          <td id="" class="data row0 col5" >90.50</td>
+    </tr>
+    
+</tbody></table>
+
+
+## MagnaTagATune - MUSICNN (PR AUC)
+
+<style  type="text/css" >
+</style>
+<table id="" >
+<thead>    
+<tr>            
+<th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col2" >12KHz-log</th>
+<th class="col_heading level0 col3" >12KHz-dB</th>
+<th class="col_heading level0 col4" >16KHz-log</th>
+<th class="col_heading level0 col5" >16KHz-dB</th>
+</tr></thead><tbody>
+        <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col2" >37.67</td>
+          <td id="" class="data row0 col3" markdown="span">**38.54**</td>
+          <td id="" class="data row0 col4" markdown="span">**38.22**</td>
+          <td id="" class="data row0 col5" markdown="span">**38.92**</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col2" markdown="span">**38.25**</td>
+          <td id="" class="data row0 col3" >37.70</td>
+          <td id="" class="data row0 col4" >37.74</td>
+          <td id="" class="data row0 col5" >38.09</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col2" >38.03</td>
+          <td id="" class="data row0 col3" >37.80</td>
+          <td id="" class="data row0 col4" >37.76</td>
+          <td id="" class="data row0 col5" >37.70</td>
+    </tr>
+    
+</tbody></table>
