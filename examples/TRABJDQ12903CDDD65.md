@@ -5,11 +5,11 @@ In the following table you can find an original audio sample from Million Song D
  - reduction of time resolution: **x1, x2, x3, x4, x5, x10**
  
 # Examples:
- - [Maurice Larcange - Un Peu D'Amour Et D'Amitié](/ICASSP2020/examples/TRABEAZ128F92E7FA9.md)
- - [Mutt - Dublites](/ICASSP2020/examples/TRABJDM12903CAFAD6.md)
- - [Serj Tankian - Sky Is Over](/ICASSP2020/examples/TRABJAW128F931EAC8.md)
- - [Anthony Shakir - One Beat (Just Won't Do)](/ICASSP2020/examples/TRABEAZ12903CD1426.md)
- - **[The Jazz Masters - Moonlight Sax Medley](/ICASSP2020/examples/TRABJDQ12903CDDD65.md)**
+ - [Maurice Larcange - Un Peu D'Amour Et D'Amitié](/ICASSP2020/examples/TRABEAZ128F92E7FA9)
+ - [Mutt - Dublites](/ICASSP2020/examples/TRABJDM12903CAFAD6)
+ - [Serj Tankian - Sky Is Over](/ICASSP2020/examples/TRABJAW128F931EAC8)
+ - [Anthony Shakir - One Beat (Just Won't Do)](/ICASSP2020/examples/TRABEAZ12903CD1426)
+ - **[The Jazz Masters - Moonlight Sax Medley](/ICASSP2020/examples/TRABJDQ12903CDDD65)**
  
 
 ## The Jazz Masters - Moonlight Sax Medley
