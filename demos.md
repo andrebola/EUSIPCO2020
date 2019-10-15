@@ -298,6 +298,62 @@ In the following table you can find an original audio sample from Million Song D
 	</audio>
     </td>
   </tr>
+	<td><b>32 mels - 1x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel32-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel32-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+  <td><b>24 mels - 1x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel24-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel24-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+  <td><b>16 mels - 1x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel16-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel16-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+  <td><b>8 mels - 1x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel8-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel8-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
 
 
 </tbody></table>
