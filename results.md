@@ -137,6 +137,7 @@
 <thead>    
 <tr>            
 <th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col1" >time (hop size)</th>
 <th class="col_heading level0 col2" >12KHz-log</th>
 <th class="col_heading level0 col3" >12KHz-dB</th>
 <th class="col_heading level0 col4" >16KHz-log</th>
@@ -144,6 +145,7 @@
 </tr></thead><tbody>
         <tr>
           <th id="" class="data row0 col0" >128</th>
+                <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >90.39</td>
           <td id="" class="data row0 col3" >90.40</td>
           <td id="" class="data row0 col4" markdown="span">**90.66**</td>
@@ -151,6 +153,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" markdown="span">**90.59**</td>
           <td id="" class="data row0 col3" markdown="span">**90.50**</td>
           <td id="" class="data row0 col4" >90.58</td>
@@ -158,6 +161,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >48</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >90.44</td>
           <td id="" class="data row0 col3" >90.33</td>
           <td id="" class="data row0 col4" >90.44</td>
@@ -175,6 +179,7 @@
 <thead>    
 <tr>            
 <th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col1" >time (hop size)</th>
 <th class="col_heading level0 col2" >12KHz-log</th>
 <th class="col_heading level0 col3" >12KHz-dB</th>
 <th class="col_heading level0 col4" >16KHz-log</th>
@@ -182,6 +187,7 @@
 </tr></thead><tbody>
         <tr>
           <th id="" class="data row0 col0" >128</th>
+                <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >37.67</td>
           <td id="" class="data row0 col3" markdown="span">**38.54**</td>
           <td id="" class="data row0 col4" markdown="span">**38.22**</td>
@@ -189,6 +195,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" markdown="span">**38.25**</td>
           <td id="" class="data row0 col3" >37.70</td>
           <td id="" class="data row0 col4" >37.74</td>
@@ -196,6 +203,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >48</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >38.03</td>
           <td id="" class="data row0 col3" >37.80</td>
           <td id="" class="data row0 col4" >37.76</td>
@@ -224,13 +232,13 @@
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" >86.48</td>
           <td id="" class="data row0 col4" >-</td>
-          <td id="" class="data row0 col5" >86.84</td>
+          <td id="" class="data row0 col5" markdown="span">**86.84**</td>
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
           <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
-          <td id="" class="data row0 col3" >86.67</td>
+          <td id="" class="data row0 col3" markdown="span">**86.67**</td>
           <td id="" class="data row0 col4" >-</td>
           <td id="" class="data row0 col5" >86.71</td>
     </tr>
@@ -289,13 +297,13 @@
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" >27.56</td>
           <td id="" class="data row0 col4" >-</td>
-          <td id="" class="data row0 col5" >28.10</td>
+          <td id="" class="data row0 col5" markdown="span">**28.10**</td>
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
           <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
-          <td id="" class="data row0 col3" >27.70</td>
+          <td id="" class="data row0 col3" markdown="span">**27.70**</td>
           <td id="" class="data row0 col4" >-</td>
           <td id="" class="data row0 col5" >28.06</td>
     </tr>
@@ -342,6 +350,7 @@
 <thead>    
 <tr>            
 <th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col1" >time (hop size)</th>
 <th class="col_heading level0 col2" >12KHz-log</th>
 <th class="col_heading level0 col3" >12KHz-dB</th>
 <th class="col_heading level0 col4" >16KHz-log</th>
@@ -349,6 +358,7 @@
 </tr></thead><tbody>
         <tr>
           <th id="" class="data row0 col0" >128</th>
+                <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" >87.10</td>
           <td id="" class="data row0 col4" ></td>
@@ -356,6 +366,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" markdown="span">87.16</td>
           <td id="" class="data row0 col4" ></td>
@@ -363,6 +374,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >48</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" >86.99</td>
           <td id="" class="data row0 col4" >-</td>
@@ -380,6 +392,7 @@
 <thead>    
 <tr>            
 <th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col1" >time (hop size)</th>
 <th class="col_heading level0 col2" >12KHz-log</th>
 <th class="col_heading level0 col3" >12KHz-dB</th>
 <th class="col_heading level0 col4" >16KHz-log</th>
@@ -387,6 +400,7 @@
 </tr></thead><tbody>
         <tr>
           <th id="" class="data row0 col0" >128</th>
+                <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" >26.97</td>
           <td id="" class="data row0 col4" >-</td>
@@ -394,6 +408,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >96</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" markdown="span">**27.10**</td>
           <td id="" class="data row0 col4" >-</td>
@@ -401,6 +416,7 @@
     </tr>
     <tr>
           <th id="" class="data row0 col0" >48</th>
+            <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >-</td>
           <td id="" class="data row0 col3" >26.66</td>
           <td id="" class="data row0 col4" >-</td>
