@@ -98,10 +98,10 @@
     <tr>
           <th id="" class="data row0 col0" >48</th>
           <td id="" class="data row0 col1" >x1</td>
-          <td id="" class="data row0 col2" >**35.62** (0.26)</td>
-          <td id="" class="data row0 col3" >**35.87** (0.44)</td>
-          <td id="" class="data row0 col4" >**36.17** (0.26)</td>
-          <td id="" class="data row0 col5" >**36.41** (0.53)</td>
+          <td id="" class="data row0 col2" markdown="span">**35.62** (0.26)</td>
+          <td id="" class="data row0 col3" markdown="span">**35.87** (0.44)</td>
+          <td id="" class="data row0 col4" markdown="span">**36.17** (0.26)</td>
+          <td id="" class="data row0 col5" markdown="span">**36.41** (0.53)</td>
     </tr>
     <tr>
           <th id="" class="data row0 col0" >128</th>
