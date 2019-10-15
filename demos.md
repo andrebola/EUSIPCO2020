@@ -298,6 +298,7 @@ In the following table you can find an original audio sample from Million Song D
 	</audio>
     </td>
   </tr>
+  <tr>
 	<td><b>32 mels - 1x:</b></td>
     <td>
 	<audio controls="" preload="none">
@@ -312,6 +313,7 @@ In the following table you can find an original audio sample from Million Song D
 	</audio>
     </td>
   </tr>
+  <tr>
   <td><b>24 mels - 1x:</b></td>
     <td>
 	<audio controls="" preload="none">
@@ -326,6 +328,7 @@ In the following table you can find an original audio sample from Million Song D
 	</audio>
     </td>
   </tr>
+  <tr>
   <td><b>16 mels - 1x:</b></td>
     <td>
 	<audio controls="" preload="none">
@@ -340,6 +343,7 @@ In the following table you can find an original audio sample from Million Song D
 	</audio>
     </td>
   </tr>
+  <tr>
   <td><b>8 mels - 1x:</b></td>
     <td>
 	<audio controls="" preload="none">
