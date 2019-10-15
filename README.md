@@ -11,10 +11,11 @@ Automatic tagging of music is an important research topic in Music Information R
 This repository contains the following folders and files:
  - **msd-tagging**: This folder contains the code to reproduce the experiments for the million song dataset
  - **mtat-tagging**: This folder contains the code to reproduce the experiments for the MagnaTagATune dataset
- - **Results**: This folder contains the tables with the performance of the models for all the settings
- - **Sonify.ipynb**: This python notebook has the code to sonify the mel-spectrograms
+ - **[results](./results)**: This page contains the tables with the performance of the models for all the settings
+ - **[Sonify.ipynb](./Sonify.ipynb)**: This python notebook has the code to sonify the mel-spectrograms
+ - **[examples](./demos)**: This page contains some examples of sonified mel-spectrograms for different settings
 
 
-### Ack
+### Acknowledgements
 
 This work was partially supported by Kakao Corp.
