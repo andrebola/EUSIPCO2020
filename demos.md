@@ -44,7 +44,7 @@ In the following table you can find an original audio sample from Million Song D
     </td>
   </tr>
   <tr>
-    <td><b>128 mels - 2x:</b> vocals</td>
+    <td><b>128 mels - 2x:</b></td>
     <td>
 	<audio controls="" preload="none">
 	<source src="audio/TRABEAZ128F92E7FA9/16k-mel128-x2.flac" type="audio/flac">
@@ -58,7 +58,51 @@ In the following table you can find an original audio sample from Million Song D
 	</audio>
     </td>
   </tr>
-
+<tr>
+    <td><b>128 mels - 3x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel128-x3.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel128-x3.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+	<tr>
+    <td><b>128 mels - 4x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel128-x4.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel128-x4.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+	<tr>
+    <td><b>128 mels - 5x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel128-x5.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel128-x5.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
   <tr>
     <td><b>128 mels - 10x:</b></td>
     <td>
@@ -74,7 +118,186 @@ In the following table you can find an original audio sample from Million Song D
 	</audio>
     </td>
   </tr>
-
+<tr>
+    <td><b>96 mels - 1x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel96-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel96-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>96 mels - 2x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel96-x2.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel96-x2.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+<tr>
+    <td><b>96 mels - 3x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel96-x3.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel96-x3.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+	<tr>
+    <td><b>96 mels - 4x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel96-x4.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel96-x4.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+	<tr>
+    <td><b>96 mels - 5x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel96-x5.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel96-x5.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>96 mels - 10x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel96-x10.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel96-x10.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+<tr>
+    <td><b>48 mels - 1x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel48-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel48-x1.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>48 mels - 2x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel48-x2.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel48-x2.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+<tr>
+    <td><b>48 mels - 3x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel48-x3.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel48-x3.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+	<tr>
+    <td><b>48 mels - 4x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel48-x4.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel48-x4.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+	<tr>
+    <td><b>48 mels - 5x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel48-x5.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel48-x5.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>48 mels - 10x:</b></td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/16k-mel48-x10.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+    <td>
+	<audio controls="" preload="none">
+	<source src="audio/TRABEAZ128F92E7FA9/12k-mel48-x10.flac" type="audio/flac">
+	Your browser does not support the audio element.
+	</audio>
+    </td>
+  </tr>
 
 
 </tbody></table>
