@@ -203,3 +203,208 @@
     </tr>
     
 </tbody></table>
+
+## MSD - VGG (ROC AUC)
+
+<style  type="text/css" >
+</style>
+<table id="" >
+<thead>    
+<tr>            
+<th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col1" >time (hop size)</th>
+<th class="col_heading level0 col2" >12KHz-log</th>
+<th class="col_heading level0 col3" >12KHz-dB</th>
+<th class="col_heading level0 col4" >16KHz-log</th>
+<th class="col_heading level0 col5" >16KHz-dB</th>
+</tr></thead><tbody>
+        <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col1" >x1</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >86.48</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >86.84</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col1" >x1</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >86.67</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >86.71</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col1" >x1</td>
+          <td id="" class="data row0 col2 " markdown="span">-</td>
+          <td id="" class="data row0 col3 " markdown="span">86.53</td>
+          <td id="" class="data row0 col4 " markdown="span">-</td>
+          <td id="" class="data row0 col5 " markdown="span">86.73</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col1" >x2</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >86.28</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >86.34</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col1" >x2</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >86.18</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >86.63</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col1" >x2</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >85.86</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >86.41</td>
+    </tr>
+</tbody></table>
+
+
+## MSD - VGG (PR AUC)
+
+<style  type="text/css" >
+</style>
+<table id="" >
+<thead>    
+<tr>            
+<th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col1" >time (hop size)</th>
+<th class="col_heading level0 col2" >12KHz-log</th>
+<th class="col_heading level0 col3" >12KHz-dB</th>
+<th class="col_heading level0 col4" >16KHz-log</th>
+<th class="col_heading level0 col5" >16KHz-dB</th>
+</tr></thead><tbody>
+        <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col1" >x1</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >27.56</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >28.10</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col1" >x1</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >27.70</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >28.06</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col1" >x1</td>
+          <td id="" class="data row0 col2" markdown="span">-</td>
+          <td id="" class="data row0 col3" markdown="span">27.27</td>
+          <td id="" class="data row0 col4" markdown="span">-</td>
+          <td id="" class="data row0 col5" markdown="span">27.78</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col1" >x2</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >27.24</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >27.06</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col1" >x2</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >26.93</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >27.70</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col1" >x2</td>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >26.42</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >26.83</td>
+    </tr>
+</tbody></table>
+
+
+## MSD - MUSICNN (ROC AUC)
+
+<style  type="text/css" >
+</style>
+<table id="" >
+<thead>    
+<tr>            
+<th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col2" >12KHz-log</th>
+<th class="col_heading level0 col3" >12KHz-dB</th>
+<th class="col_heading level0 col4" >16KHz-log</th>
+<th class="col_heading level0 col5" >16KHz-dB</th>
+</tr></thead><tbody>
+        <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >87.10</td>
+          <td id="" class="data row0 col4" markdown="span"></td>
+          <td id="" class="data row0 col5" markdown="span">**87.21**</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col2" markdown="span">-</td>
+          <td id="" class="data row0 col3" markdown="span">87.16</td>
+          <td id="" class="data row0 col4" ></td>
+          <td id="" class="data row0 col5" >87.21</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >86.99</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >87.10</td>
+    </tr>
+    
+</tbody></table>
+
+
+## MSD - MUSICNN (PR AUC)
+
+<style  type="text/css" >
+</style>
+<table id="" >
+<thead>    
+<tr>            
+<th class="col_heading level0 col0" ># Mel</th>
+<th class="col_heading level0 col2" >12KHz-log</th>
+<th class="col_heading level0 col3" >12KHz-dB</th>
+<th class="col_heading level0 col4" >16KHz-log</th>
+<th class="col_heading level0 col5" >16KHz-dB</th>
+</tr></thead><tbody>
+        <tr>
+          <th id="" class="data row0 col0" >128</th>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" markdown="span">**26.97**</td>
+          <td id="" class="data row0 col4" markdown="span">-</td>
+          <td id="" class="data row0 col5" >26.91</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >96</th>
+          <td id="" class="data row0 col2" markdown="span">-</td>
+          <td id="" class="data row0 col3" >27.10</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >26.96</td>
+    </tr>
+    <tr>
+          <th id="" class="data row0 col0" >48</th>
+          <td id="" class="data row0 col2" >-</td>
+          <td id="" class="data row0 col3" >26.66</td>
+          <td id="" class="data row0 col4" >-</td>
+          <td id="" class="data row0 col5" >26.64</td>
+    </tr>
+    
+</tbody></table>
