@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Music Auto-tagging Using CNNs and Mel-spectrograms with Reduced Frequency and Time Resolution
 
-You can use the [editor on GitHub](https://github.com/andrebola/ICASSP2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The code in this repository was used to generate the results that are presented in the paper. Here we also include the complete tables with the performance of all the combinations of settings that are not shown in the paper. Additionally, we show some examples of mel-spectrograms sonified to give an idea of the information that the network gets for each setting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abstract
 
-### Markdown
+Automatic tagging of music is an important research topic in Music Information Retrieval and audio analysis algorithms proposed for this task have achieved improvements with advances in deep learning. In particular, many state-of-the-art systems use Convolutional Neural Networks and operate on mel-spectrogram representations of the audio. In this paper, we compare commonly used mel-spectrogram representations and evaluate model performances that can be achieved by reducing the input size in terms of both lesser amount of frequency bands and larger frame rates. We use the MagnaTagaTune dataset for comprehensive performance comparisons and then compare selected configurations on the larger Million Song Dataset. The results of this study can serve researchers and practitioners in their trade-off decision between accuracy of the models, data storage size and training and inference times.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Content of the repository
 
-```markdown
-Syntax highlighted code block
+This repository contains the following folders and files:
+ - **msd-tagging**: This folder contains the code to reproduce the experiments for the million song dataset
+ - **mtat-tagging**: This folder contains the code to reproduce the experiments for the MagnaTagATune dataset
+ - **Results**: This folder contains the tables with the performance of the models for all the settings
+ - **Sonify.ipynb**: This python notebook has the code to sonify the mel-spectrograms
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Ack
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrebola/ICASSP2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This work was partially supported by Kakao Corp.
