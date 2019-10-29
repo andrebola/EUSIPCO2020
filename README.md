@@ -1,6 +1,6 @@
 ## Music Auto-tagging Using CNNs and Mel-spectrograms with Reduced Frequency and Time Resolution
 
-The code in this repository was used to generate the results that are presented in the paper. Here we also include the complete [tables](./results) with the performance of all the combinations of settings that are not shown in the paper. Additionally, we show some [examples](./demos) of mel-spectrograms sonified to give an idea of the information that the network gets for each setting.
+The code in this repository was used to generate the results that are presented in the paper. Here we also include the complete **[tables](./results)** with the performance of all the combinations of settings that are not shown in the paper. Additionally, we show some **[examples](./demos)** of mel-spectrograms sonified to give an idea of the information that the network gets for each setting.
 
 ### Abstract
 
