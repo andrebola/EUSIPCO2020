@@ -368,7 +368,7 @@
           <th id="" class="data row0 col0" >96</th>
             <td id="" class="data row0 col1" >x1</td>
           <td id="" class="data row0 col2" >87.13</td>
-          <td id="" class="data row0 col3" markdown="span">87.16</td>
+          <td id="" class="data row0 col3" markdown="span">**87.16**</td>
           <td id="" class="data row0 col4" >87.08</td>
           <td id="" class="data row0 col5" markdown="span">**87.21**</td>
     </tr>
@@ -409,7 +409,7 @@
     <tr>
           <th id="" class="data row0 col0" >96</th>
             <td id="" class="data row0 col1" >x1</td>
-          <td id="" class="data row0 col2" >27.05</td>
+          <td id="" class="data row0 col2" markdown="span">**27.05**</td>
           <td id="" class="data row0 col3" markdown="span">**27.10**</td>
           <td id="" class="data row0 col4" >26.74</td>
           <td id="" class="data row0 col5" markdown="span">**26.96**</td>
